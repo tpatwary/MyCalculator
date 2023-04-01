@@ -71,6 +71,6 @@ public class MyCalculator {
 			System.out.print("Do you want to continue? (y/n): ");
 		} while (scanner.next().charAt(0) == 'y');
 
-		System.out.println("Thank you for using the scientific calculator!");
+		System.out.println("Thank you for using my calculator!");
 	}
 }
